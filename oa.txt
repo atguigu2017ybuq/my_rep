@@ -3,4 +3,4 @@ bbbbbbb
 ccccccc[new master]
 ccccccc[new hot_fix]
 ddddddd
-eeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeee[yyyyyyyyyy]
