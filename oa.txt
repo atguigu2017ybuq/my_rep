@@ -2,6 +2,6 @@ aaaaaaa
 bbbbbbb
 ccccccc[new master]
 ccccccc[new hot_fix]
-ddddddd[yyyyyyyyyyyyyyyyyyyy]
+ddddddd[yyyyyyyyyyyyyyyyyyyy][edit lhc]
 eeeeeeeeeeeeeeeeeeeeeeeeeeee[yyyyyyyyyy]ii
 clone..
