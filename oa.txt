@@ -4,3 +4,4 @@ ccccccc[new master]
 ccccccc[new hot_fix]
 ddddddd[yyyyyyyyyyyyyyyyyyyy]
 eeeeeeeeeeeeeeeeeeeeeeeeeeee[yyyyyyyyyy]ii
+clone..
